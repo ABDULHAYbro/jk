@@ -1,0 +1,105 @@
+.a{
+    font-size: 20px;
+    border-radius: 50px;
+    color: black;
+    background-color: cornsilk;
+}
+.a:hover{
+    background-color: dimgrey;
+    color: blue;
+    cursor: pointer;
+}
+.adfa{
+    border-radius: 50px;
+    color: black;
+    background-color: cornsilk;
+}
+.adfa:hover{
+    background-color: dimgray;
+    color: blue;
+    cursor: pointer;
+}
+.sa{
+    border-radius: 50px;
+   position: relative;
+   top: 25px;
+   right: 16%;
+   font-size: 20px;
+    color: rgb(151, 23, 23);
+    background-color: rgb(1, 248, 83);
+}
+.sa:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
+    cursor: pointer;
+}
+.as{
+    position: relative;
+    top: 10px;
+}
+.A{
+position: relative;
+top:  10px;
+}
+.wer{
+    font-size: 20px;
+    color: aqua;
+    border-radius: 50px;
+    background-color: black;
+}
+.wer:hover{
+    background-color: blue;
+    color: coral;
+    cursor: pointer;
+}
+.vvv{
+    font-size: 20px;
+    border-radius: 50px;
+    color: cyan;
+    background-color: black;
+    position: relative;
+    top: 30px;
+    right: 17%;
+    font-size: 20px;
+}
+.vvv:hover{
+    background-color: bisque;
+    color: blueviolet;
+    cursor: pointer;
+}
+body{
+    color: aqua;
+    background-image: url(./cosmos-planet-5k-nv\ -\ Copy.jpg);
+    text-align: center;
+}
+.fff{
+    position: relative;
+    left: 6%;
+}
+.bbb{
+    color: black;
+    background-color: chartreuse;
+    border-radius: 50px;
+    position: relative;
+    top: 30px;
+    right: 15%;
+}
+.bbb:hover{
+    background-color: aquamarine;
+    color: blueviolet;
+    cursor: pointer;
+}
+.nnn{
+    border-radius: 50px;
+    background-color: crimson;
+    color: black;
+    position: relative;
+    top: 25px;
+    right: 20%;
+    font-size: 20px;
+}
+.nnn:hover{
+    background-color: burlywood;
+    color: azure;
+    cursor: pointer;
+}
